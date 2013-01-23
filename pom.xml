@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.wso2.af</groupId>
   <artifactId>test1622</artifactId>
-  <version>SNAPSHOT</version>
+  <version>2.0</version>
   <packaging>war</packaging>
   <name>test1622 Maven Webapp</name>
   <url>http://maven.apache.org</url>
